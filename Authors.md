@@ -1,7 +1,6 @@
 # The teams 
 
 ## Team Name 1
-Team leader: ...
+Team leader: Leo
 
-* Junion1: Prenom Nom
-* Junior2: Prenom Nom...
+* Junion1: Van Khoa BUI
