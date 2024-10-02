@@ -5,4 +5,4 @@ Team leader: Leo
 
 * Junion1: Van Khoa BUI
 * Junion2: Mirzadeh Alireza
-* Junior2: Prenom Nom...
+* Junior3: Ke Yan
